@@ -1,0 +1,8 @@
+Package: repo2dockerProject
+Type: Package
+Title: Executable OSF Environment
+Version: 1.0
+Authors@R: c(person("Maintainer", "Example", email = "maintainer@example.com", role = c("aut", "cre")))
+Description: Automatically generated DESCRIPTION file for Repo2Docker.
+License: See license and authorship information at https://osf.io/2sguf/
+Imports: GPArotation, bayestestR, brms, cowplot, dplyr, ggplot2, ggpubr, grid, gridExtra, kableExtra, knitr, lavaan, loo, magick, psych, readxl, sjPlot, tidybayes, tidyverse, 
